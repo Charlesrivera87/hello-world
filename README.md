@@ -1,5 +1,5 @@
 # hello-world
-Not how the world is, but that it is, is the mystical.
+Not how the world is, is the mystical, but that it is.
 ```
 {
   "firstName": "Charles",
